@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding/travel/games.
 - 🌱 I’m currently learning english/python/react/backend.
 - 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️ 💞️
-- 📫 How to reach me bioheart.kalel@gmail.com
 
 <!---
 bioheart/bioheart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
